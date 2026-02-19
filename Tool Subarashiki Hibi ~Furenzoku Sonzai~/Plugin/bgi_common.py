@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Common routines for handling BGI scripts
 
 import struct
