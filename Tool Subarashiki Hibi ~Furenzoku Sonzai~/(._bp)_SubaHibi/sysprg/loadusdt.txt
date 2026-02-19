@@ -1,0 +1,9 @@
+<en0001>ユーザーデータ番号の取得に失敗した
+<pt0001>ユーザーデータ番号の取得に失敗した
+
+<en0002>sysprg.arc
+<pt0002>sysprg.arc
+
+<en0003>yesnownd._bp
+<pt0003>yesnownd._bp
+

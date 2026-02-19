@@ -1,0 +1,360 @@
+<en0001>Yuki
+<pt0001>Yuki
+
+<en0002>Zakuro
+<pt0002>Zakuro
+
+<en0003>Kagami
+<pt0003>Kagami
+
+<en0004>Tsukasa
+<pt0004>Tsukasa
+
+<en0005>Ayana
+<pt0005>Ayana
+
+<en0006>Kimika
+<pt0006>Kimika
+
+<en0007>Hasaki
+<pt0007>Hasaki
+
+<en0008>Takuji
+<pt0008>Takuji
+
+<en0009>Everyone
+<pt0009>Everyone
+
+<en0010>Old Man
+<pt0010>Old Man
+
+<en0011>Old Lady
+<pt0011>Old Lady
+
+<en0012>Male Student
+<pt0012>Male Student
+
+<en0013>Female Student
+<pt0013>Female Student
+
+<en0014>Riruru
+<pt0014>Riruru
+
+<en0015>Iida
+<pt0015>Iida
+
+<en0016>Senagawa
+<pt0016>Senagawa
+
+<en0017>Satoko
+<pt0017>Satoko
+
+<en0018>Megu
+<pt0018>Megu
+
+<en0019>Asumi's Dad
+<pt0019>Asumi's Dad
+
+<en0020>Tomosane
+<pt0020>Tomosane
+
+<en0021>Nishimura
+<pt0021>Nishimura
+
+<en0022>Male Waiter
+<pt0022>Male Waiter
+
+<en0023>Shiroyama
+<pt0023>Shiroyama
+
+<en0024>Elderly Male Teacher
+<pt0024>Elderly Male Teacher
+
+<en0025>Mamiya
+<pt0025>Mamiya
+
+<en0026>God
+<pt0026>God
+
+<en0027>Master
+<pt0027>Master
+
+<en0028>Hiroo
+<pt0028>Hiroo
+
+<en0029>Dojo Student
+<pt0029>Dojo Student
+
+<en0030>Zakuro+Kagami
+<pt0030>Zakuro+Kagami
+
+<en0031>Takuji+Kotomi
+<pt0031>Takuji+Kotomi
+
+<en0032>Kagami+Tsukasa
+<pt0032>Kagami+Tsukasa
+
+<en0033>Tsukasa+Zakuro
+<pt0033>Tsukasa+Zakuro
+
+<en0034>Miu
+<pt0034>Miu
+
+<en0035>Doll
+<pt0035>Doll
+
+<en0036>Mysterious Person
+<pt0036>Mysterious Person
+
+<en0037>Book
+<pt0037>Book
+
+<en0038>Kiyokawa
+<pt0038>Kiyokawa
+
+<en0039>Coach
+<pt0039>Coach
+
+<en0040>Man
+<pt0040>Man
+
+<en0041>Kiyoshi
+<pt0041>Kiyoshi
+
+<en0042>Yasuko
+<pt0042>Yasuko
+
+<en0043>Kimura
+<pt0043>Kimura
+
+<en0044>Ikuta
+<pt0044>Ikuta
+
+<en0045>Kawabata
+<pt0045>Kawabata
+
+<en0046>Tamura
+<pt0046>Tamura
+
+<en0047>Shimada
+<pt0047>Shimada
+
+<en0048>Tokisaka
+<pt0048>Tokisaka
+
+<en0049>Numada
+<pt0049>Numada
+
+<en0050>Iinuma
+<pt0050>Iinuma
+
+<en0051>Kotomi
+<pt0051>Kotomi
+
+<en0052>Minakami
+<pt0052>Minakami
+
+<en0053>Teacher
+<pt0053>Teacher
+
+<en0054>Ayumi
+<pt0054>Ayumi
+
+<en0055>Usami
+<pt0055>Usami
+
+<en0056>Asumi
+<pt0056>Asumi
+
+<en0057>Employee
+<pt0057>Employee
+
+<en0058>Nishiyama
+<pt0058>Nishiyama
+
+<en0059>Mother
+<pt0059>Mother
+
+<en0060>Desk
+<pt0060>Desk
+
+<en0061>Anxiety
+<pt0061>Anxiety
+
+<en0062>Believer
+<pt0062>Believer
+
+<en0063>Asumi's Mom
+<pt0063>Asumi's Mom
+
+<en0064>Male Pedestrian
+<pt0064>Male Pedestrian
+
+<en0065>Onlookers
+<pt0065>Onlookers
+
+<en0066>Waiter
+<pt0066>Waiter
+
+<en0067>Other School Student
+<pt0067>Other School Student
+
+<en0068>Lowlifes
+<pt0068>Lowlifes
+
+<en0069>Evil Person
+<pt0069>Evil Person
+
+<en0070>Customer
+<pt0070>Customer
+
+<en0071>Customer A
+<pt0071>Customer A
+
+<en0072>Customer B
+<pt0072>Customer B
+
+<en0073>Faggot
+<pt0073>Faggot
+
+<en0074>Announcement
+<pt0074>Announcement
+
+<en0075>Female Pedestrian
+<pt0075>Female Pedestrian
+
+<en0076>         Male Student
+<pt0076>         Male Student
+
+<en0077>    Male Student
+<pt0077>    Male Student
+
+<en0078>            Male Student
+<pt0078>            Male Student
+
+<en0079>             Male Student
+<pt0079>             Male Student
+
+<en0080>Male Teacher
+<pt0080>Male Teacher
+
+<en0081>Female Teacher
+<pt0081>Female Teacher
+
+<en0082>未登録の名前を表示します
+<pt0082>未登録の名前を表示します
+
+<en0083>「
+<pt0083>「
+
+<en0084>　
+<pt0084>　
+
+<en0085>（
+<pt0085>（
+
+<en0086>“
+<pt0086>“
+
+<en0087>『
+<pt0087>『
+
+<en0088>%c%s
+<pt0088>%c%s
+
+<en0089>_
+<pt0089>_
+
+<en0090>\n
+<pt0090>\n
+
+<en0091>\f
+<pt0091>\f
+
+<en0092>」
+<pt0092>」
+
+<en0093>）
+<pt0093>）
+
+<en0094>テキスト表示速度
+<pt0094>テキスト表示速度
+
+<en0095>sysprg.arc
+<pt0095>sysprg.arc
+
+<en0096>environ._bp
+<pt0096>environ._bp
+
+<en0097>単位
+<pt0097>単位
+
+<en0098>テキスト出力Ｘ座標
+<pt0098>テキスト出力Ｘ座標
+
+<en0099>テキスト出力Ｙ座標
+<pt0099>テキスト出力Ｙ座標
+
+<en0100>%s%s\%s\n
+<pt0100>%s%s\%s\n
+
+<en0101>フォント番号
+<pt0101>フォント番号
+
+<en0102>フォントサイズ
+<pt0102>フォントサイズ
+
+<en0103>フォントの太さ
+<pt0103>フォントの太さ
+
+<en0104>フォントの縦幅
+<pt0104>フォントの縦幅
+
+<en0105>フォントの横幅
+<pt0105>フォントの横幅
+
+<en0106>モノローグカラー（赤）
+<pt0106>モノローグカラー（赤）
+
+<en0107>モノローグカラー（緑）
+<pt0107>モノローグカラー（緑）
+
+<en0108>モノローグカラー（青）
+<pt0108>モノローグカラー（青）
+
+<en0109>ワードカラー（赤）
+<pt0109>ワードカラー（赤）
+
+<en0110>ワードカラー（緑）
+<pt0110>ワードカラー（緑）
+
+<en0111>ワードカラー（青）
+<pt0111>ワードカラー（青）
+
+<en0112>これ以上、セリフ用テキストカラーを登録することはできません
+<pt0112>これ以上、セリフ用テキストカラーを登録することはできません
+
+<en0113>拡大倍率
+<pt0113>拡大倍率
+
+<en0114>メッセージ出力スタイル
+<pt0114>メッセージ出力スタイル
+
+<en0115>メッセージスインギングスタイル
+<pt0115>メッセージスインギングスタイル
+
+<en0116>ウィンドウカラー
+<pt0116>ウィンドウカラー
+
+<en0117>ウィンドウデザイン
+<pt0117>ウィンドウデザイン
+
+<en0118>ウィンク開始要求時に無効なメッセージ [ $%.8X ] を受信しました
+<pt0118>ウィンク開始要求時に無効なメッセージ [ $%.8X ] を受信しました
+
+<en0119>スプライトアニメーション開始時に無効なメッセージ [ $%.8X ] を受信しました
+<pt0119>スプライトアニメーション開始時に無効なメッセージ [ $%.8X ] を受信しました
+
+<en0120>循環制御が行われているオブジェクトに対して待機要求が発行されました
+<pt0120>循環制御が行われているオブジェクトに対して待機要求が発行されました
+

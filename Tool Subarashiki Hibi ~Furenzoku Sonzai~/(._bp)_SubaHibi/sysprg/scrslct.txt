@@ -1,0 +1,72 @@
+<en0001>選択肢数
+<pt0001>選択肢数
+
+<en0002>sysprg.arc
+<pt0002>sysprg.arc
+
+<en0003>environ._bp
+<pt0003>environ._bp
+
+<en0004>Choice
+<pt0004>Choice
+
+<en0005>項目番号
+<pt0005>項目番号
+
+<en0006>アイコン数
+<pt0006>アイコン数
+
+<en0007>bitmap._bp
+<pt0007>bitmap._bp
+
+<en0008>data02xxx.arc
+<pt0008>data02xxx.arc
+
+<en0009>SGScSlct00%02d00
+<pt0009>SGScSlct00%02d00
+
+<en0010>sysgrp.arc
+<pt0010>sysgrp.arc
+
+<en0011>SGScSlct990000
+<pt0011>SGScSlct990000
+
+<en0012>gotitle._bp
+<pt0012>gotitle._bp
+
+<en0013>Down the Rabbit-Hole
+<pt0013>Down the Rabbit-Hole
+
+<en0014>It's my own Invention
+<pt0014>It's my own Invention
+
+<en0015>Looking-glass Insects
+<pt0015>Looking-glass Insects
+
+<en0016>Jabberwocky
+<pt0016>Jabberwocky
+
+<en0017>Which Dreamed It
+<pt0017>Which Dreamed It
+
+<en0018>Jabberwocky II
+<pt0018>Jabberwocky II
+
+<en0019>Hill of Sunflowers
+<pt0019>Hill of Sunflowers
+
+<en0020>WondwefulEveryday
+<pt0020>WondwefulEveryday
+
+<en0021>End Sky II
+<pt0021>End Sky II
+
+<en0022>userdata._bp
+<pt0022>userdata._bp
+
+<en0023>
+<pt0023>
+
+<en0024>循環制御が行われているオブジェクトに対して待機要求が発行されました
+<pt0024>循環制御が行われているオブジェクトに対して待機要求が発行されました
+

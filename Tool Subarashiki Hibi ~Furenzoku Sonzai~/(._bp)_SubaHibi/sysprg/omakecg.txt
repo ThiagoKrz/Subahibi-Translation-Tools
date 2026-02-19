@@ -1,0 +1,24 @@
+<en0001>SetupForGallery
+<pt0001>SetupForGallery
+
+<en0002>SetupForReplay
+<pt0002>SetupForReplay
+
+<en0003>sysprg.arc
+<pt0003>sysprg.arc
+
+<en0004>userdata._bp
+<pt0004>userdata._bp
+
+<en0005>scrdrv._bp
+<pt0005>scrdrv._bp
+
+<en0006>data02xxx.arc
+<pt0006>data02xxx.arc
+
+<en0007>指定されたビットマップ [ %s ] は存在しません
+<pt0007>指定されたビットマップ [ %s ] は存在しません
+
+<en0008>bitmap._bp
+<pt0008>bitmap._bp
+

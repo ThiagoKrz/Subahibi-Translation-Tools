@@ -1,0 +1,27 @@
+<en0001>sysprg.arc
+<pt0001>sysprg.arc
+
+<en0002>anmmngrs._bp
+<pt0002>anmmngrs._bp
+
+<en0003>アニメーションマネージャ・マスタースレッドは無効なメッセージ [ $%.8X ] を受信しました
+<pt0003>アニメーションマネージャ・マスタースレッドは無効なメッセージ [ $%.8X ] を受信しました
+
+<en0004>%se%.1d
+<pt0004>%se%.1d
+
+<en0005>data02xxx.arc
+<pt0005>data02xxx.arc
+
+<en0006>%s+
+<pt0006>%s+
+
+<en0007>data04xxx.arc
+<pt0007>data04xxx.arc
+
+<en0008>%sm%.1d
+<pt0008>%sm%.1d
+
+<en0009>bitmap._bp
+<pt0009>bitmap._bp
+

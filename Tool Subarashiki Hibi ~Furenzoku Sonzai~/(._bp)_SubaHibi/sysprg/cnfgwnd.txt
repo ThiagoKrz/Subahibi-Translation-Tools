@@ -1,0 +1,12 @@
+<en0001>sysprg.arc
+<pt0001>sysprg.arc
+
+<en0002>environ._bp
+<pt0002>environ._bp
+
+<en0003>msgwndctrl._bp
+<pt0003>msgwndctrl._bp
+
+<en0004>gotitle._bp
+<pt0004>gotitle._bp
+

@@ -1,0 +1,30 @@
+<en0001>SGUsDtWnd99000%d
+<pt0001>SGUsDtWnd99000%d
+
+<en0002>SGUsDtWnd99010%d
+<pt0002>SGUsDtWnd99010%d
+
+<en0003>sysgrp.arc
+<pt0003>sysgrp.arc
+
+<en0004>sysprg.arc
+<pt0004>sysprg.arc
+
+<en0005>encdusdt._bp
+<pt0005>encdusdt._bp
+
+<en0006>userdata._bp
+<pt0006>userdata._bp
+
+<en0007>%04d/%02d/%02d  %02d:%02d:%02d
+<pt0007>%04d/%02d/%02d  %02d:%02d:%02d
+
+<en0008>----/--/--  --:--:--
+<pt0008>----/--/--  --:--:--
+
+<en0009>yesnownd._bp
+<pt0009>yesnownd._bp
+
+<en0010>gotitle._bp
+<pt0010>gotitle._bp
+

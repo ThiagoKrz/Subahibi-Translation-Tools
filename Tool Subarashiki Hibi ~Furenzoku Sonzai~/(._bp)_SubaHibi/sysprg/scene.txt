@@ -1,0 +1,6 @@
+<en0001>SCENE
+<pt0001>SCENE
+
+<en0002>%s%.4x
+<pt0002>%s%.4x
+

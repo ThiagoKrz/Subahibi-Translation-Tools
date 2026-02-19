@@ -13,12 +13,12 @@
 <ptT0001>Oh! Nossos bolsos estﾐo cheios.
 
 //TEXT BACKLOG
-<enT0002>Our lady-loves,―phantasms of our brains,
-<ptT0002>Nossas amadas, — fantasmas de nossas mentes,
+<enT0002>Our lady-loves,-phantasms of our brains,
+<ptT0002>Nossas amadas, - fantasmas de nossas mentes,
 
 //TEXT BACKLOG
-<enT0003>―Dream-fancies blown into soap-bubbles!
-<ptT0003>— Fantasias de sonhos sopradas como bolhas de sabﾐo!
+<enT0003>-Dream-fancies blown into soap-bubbles!
+<ptT0003>- Fantasias de sonhos sopradas como bolhas de sabﾐo!
 
 //TEXT BACKLOG
 <enT0004>Come! Take it,
@@ -49,12 +49,12 @@
 <ptT0010>Vocﾂ verｬ que eu estava nestas linhas letradas,
 
 //TEXT BACKLOG
-<enT0011>―Eloquent all the more, the less sincere!
-<ptT0011>— Tﾐo mais eloquente quanto menos sincero!
+<enT0011>-Eloquent all the more, the less sincere!
+<ptT0011>- Tﾐo mais eloquente quanto menos sincero!
 
 //TEXT BACKLOG
-<enT0012>―Take it, and make an end!
-<ptT0012>— Pegue, e dﾂ um fim a isso!
+<enT0012>-Take it, and make an end!
+<ptT0012>- Pegue, e dﾂ um fim a isso!
 
 //TEXT BACKLOG
 <enT0013>Edmond Rostand
@@ -194,7 +194,7 @@
 
 //TEXT
 <enT0047>We were both in the same class at school. He sat three seats diagonally ahead of me. His name was...
-<ptT0047>Nｺs somos da mesma sala na escola. Ele senta trﾂs carteiras na diagonal à minha frente. O nome dele era...
+<ptT0047>Nｺs somos da mesma sala na escola. Ele senta trﾂs carteiras na diagonal ｧ minha frente. O nome dele era...
 
 //TEXT 【Yuki】
 <enT0048>"Mamiya Takuji."

@@ -1,0 +1,36 @@
+<en0001>sysprg.arc
+<pt0001>sysprg.arc
+
+<en0002>msgwndctrl._bp
+<pt0002>msgwndctrl._bp
+
+<en0003>logwnd._bp
+<pt0003>logwnd._bp
+
+<en0004>yesnownd._bp
+<pt0004>yesnownd._bp
+
+<en0005>syswnd._bp
+<pt0005>syswnd._bp
+
+<en0006>gotitle._bp
+<pt0006>gotitle._bp
+
+<en0007>environ._bp
+<pt0007>environ._bp
+
+<en0008>ウィンク開始要求時に無効なメッセージ [ $%.8X ] を受信しました
+<pt0008>ウィンク開始要求時に無効なメッセージ [ $%.8X ] を受信しました
+
+<en0009>スプライトアニメーション開始時に無効なメッセージ [ $%.8X ] を受信しました
+<pt0009>スプライトアニメーション開始時に無効なメッセージ [ $%.8X ] を受信しました
+
+<en0010>userdata._bp
+<pt0010>userdata._bp
+
+<en0011>
+<pt0011>
+
+<en0012>循環制御が行われているオブジェクトに対して待機要求が発行されました
+<pt0012>循環制御が行われているオブジェクトに対して待機要求が発行されました
+

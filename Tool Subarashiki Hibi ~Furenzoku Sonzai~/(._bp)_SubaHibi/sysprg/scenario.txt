@@ -1,0 +1,9 @@
+<en0001>data01xxx.arc
+<pt0001>data01xxx.arc
+
+<en0002>ScenarioDB
+<pt0002>ScenarioDB
+
+<en0003>シナリオデータベースが破損しています
+<pt0003>シナリオデータベースが破損しています
+
