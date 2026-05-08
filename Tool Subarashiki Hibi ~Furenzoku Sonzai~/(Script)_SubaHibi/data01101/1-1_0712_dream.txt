@@ -17,28 +17,28 @@
 ///================================================================================
 
 //TEXT
-<enT0001>「ゆきっ」
-<ptT0001>「Yuki!」
+<enT0001>"ゆきっ"
+<ptT0001>"Yuki!"
 
 //TEXT 【由岐】
-<enT0002>「ん？」
-<ptT0002>「Hm?」
+<enT0002>"ん？"
+<ptT0002>"Hm?"
 
 //TEXT 【由岐】
-<enT0003>「あ、若槻姉妹の……小さい方」
-<ptT0003>「Ah, a menor das irmﾐs Wakatsuki...」
+<enT0003>"あ、若槻姉妹の……小さい方"
+<ptT0003>"Ah, a menor das irmﾐs Wakatsuki..."
 
 //TEXT
-<enT0004>「小さい方って何っっ」
-<ptT0004>「Como assim 'a menor'?!」
+<enT0004>"小さい方って何っっ"
+<ptT0004>"Como assim 'a menor'?!"
 
 //TEXT 【由岐】
-<enT0005>「身長？」
-<ptT0005>「De altura?」
+<enT0005>"身長？"
+<ptT0005>"De altura?"
 
 //TEXT
-<enT0006>「私、そんな小さくないよ……まったく……」
-<ptT0006>「Eu nﾐo sou tﾐo baixa assim... puxa vida...」
+<enT0006>"私、そんな小さくないよ……まったく……"
+<ptT0006>"Eu nﾐo sou tﾐo baixa assim... puxa vida..."
 
 //TEXT
 <enT0007>　若槻司……私の幼馴染みでお隣さん。
@@ -49,220 +49,220 @@
 <ptT0008>　Uma garota da mesma idade que mora na casa ao lado.
 
 //TEXT 【司】
-<enT0009>「奇遇だね、杉ノ宮で会うなんて……
-<ptT0009>「Que coincidﾂncia, nos encontrarmos em Suginomiya...
+<enT0009>"奇遇だね、杉ノ宮で会うなんて……
+<ptT0009>"Que coincidﾂncia, nos encontrarmos em Suginomiya...
 
 //TEXT
-<enT0010>あ、そうかバイトか何かだっけ？」
-<ptT0010>Ah, ｸ verdade, vocﾂ estava num bico ou algo assim?」
+<enT0010>あ、そうかバイトか何かだっけ？"
+<ptT0010>Ah, ｸ verdade, vocﾂ estava num bico ou algo assim?"
 
 //TEXT 【由岐】
-<enT0011>「そうだねぇ……そんな設定もあったかもしれませんなぁ……」
-<ptT0011>「Pois ｸ... talvez eu tivesse essa configuraﾔﾐo na minha histｺria...」
+<enT0011>"そうだねぇ……そんな設定もあったかもしれませんなぁ……"
+<ptT0011>"Pois ｸ... talvez eu tivesse essa configuraﾔﾐo na minha histｺria..."
 
 //TEXT
-<enT0012>「何言ってるの……由岐、バイトに設定も何もないでしょうが……」
-<ptT0012>「Do que vocﾂ tｬ falando... Yuki, nﾐo existe configuraﾔﾐo nenhuma pra trabalho...」
+<enT0012>"何言ってるの……由岐、バイトに設定も何もないでしょうが……"
+<ptT0012>"Do que vocﾂ tｬ falando... Yuki, nﾐo existe configuraﾔﾐo nenhuma pra trabalho..."
 
 //TEXT 【由岐】
-<enT0013>「あ、あなたは……」
-<ptT0013>「Ah, vocﾂ ｸ...」
+<enT0013>"あ、あなたは……"
+<ptT0013>"Ah, vocﾂ ｸ..."
 
 //TEXT
-<enT0014>「んで？　その言い方だと由岐はバイトまでサボりなわけ？」
-<ptT0014>「E aｮ? Pelo jeito que vocﾂ falou, atｸ o seu trabalho vocﾂ tｬ matando?」
+<enT0014>"んで？　その言い方だと由岐はバイトまでサボりなわけ？"
+<ptT0014>"E aｮ? Pelo jeito que vocﾂ falou, atｸ o seu trabalho vocﾂ tｬ matando?"
 
 //TEXT 【由岐】
-<enT0015>「誰かな？」
-<ptT0015>「Quem ｸ vocﾂ?」
+<enT0015>"誰かな？"
+<ptT0015>"Quem ｸ vocﾂ?"
 
 //TEXT
-<enT0016>「誰かな？　
-<ptT0016>「Quem ｸ vocﾂ?
+<enT0016>"誰かな？　
+<ptT0016>"Quem ｸ vocﾂ?
 
 //TEXT
-<enT0017>じゃないでしょっ！　なんで私を覚えてないのよ！」
-<ptT0017>Uma ova! Por que vocﾂ nﾐo se lembra de mim?!」
+<enT0017>じゃないでしょっ！　なんで私を覚えてないのよ！"
+<ptT0017>Uma ova! Por que vocﾂ nﾐo se lembra de mim?!"
 
 //TEXT 【由岐】
-<enT0018>「え？　あの……その“私の事覚えてて当然ですわっ”みたいなお姫様特性はいかがなものでしょうか？　時代錯誤では……」
-<ptT0018>「Eh? Olha... essa sua sｮndrome de princesa de 'ｸ claro que vocﾂ tem que lembrar de mim' nﾐo ｸ meio exagerada? Um tanto ultrapassada, atｸ...」
+<enT0018>"え？　あの……その“私の事覚えてて当然ですわっ”みたいなお姫様特性はいかがなものでしょうか？　時代錯誤では……"
+<ptT0018>"Eh? Olha... essa sua sｮndrome de princesa de 'ｸ claro que vocﾂ tem que lembrar de mim' nﾐo ｸ meio exagerada? Um tanto ultrapassada, atｸ..."
 
 //TEXT
-<enT0019>「お姫様特性とか関係ないっっ。なんで司は覚えてるのに私は覚えてないとかあるのよ！」
-<ptT0019>「Sｮndrome de princesa nﾐo tem nada a ver com isso! Como ｸ possｮvel vocﾂ lembrar da Tsukasa e nﾐo de mim?!」
+<enT0019>"お姫様特性とか関係ないっっ。なんで司は覚えてるのに私は覚えてないとかあるのよ！"
+<ptT0019>"Sｮndrome de princesa nﾐo tem nada a ver com isso! Como ｸ possｮvel vocﾂ lembrar da Tsukasa e nﾐo de mim?!"
 
 //TEXT 【由岐】
-<enT0020>「あるかもしれませんよ……」
-<ptT0020>「Tudo ｸ possｮvel nessa vida...」
+<enT0020>"あるかもしれませんよ……"
+<ptT0020>"Tudo ｸ possｮvel nessa vida..."
 
 //TEXT
-<enT0021>「なっ」
-<ptT0021>「O qu-」
+<enT0021>"なっ"
+<ptT0021>"O qu-"
 
 //TEXT 【司】
-<enT0022>「だめだよゆき……私達はお隣さんで幼稚園からずっと一緒だから……ゆきがお姉ちゃんの事忘れるわけないじゃん……」
-<ptT0022>「Nﾐo faz isso, Yuki... Nｺs somos vizinhas e estamos juntas desde o jardim de infｼncia... nﾐo tem como vocﾂ esquecer a minha irmﾐ...」
+<enT0022>"だめだよゆき……私達はお隣さんで幼稚園からずっと一緒だから……ゆきがお姉ちゃんの事忘れるわけないじゃん……"
+<ptT0022>"Nﾐo faz isso, Yuki... Nｺs somos vizinhas e estamos juntas desde o jardim de infｼncia... nﾐo tem como vocﾂ esquecer a minha irmﾐ..."
 
 //TEXT 【由岐】
-<enT0023>「そうですか……もうそんなになりますか……」
-<ptT0023>「ｹ mesmo... jｬ faz tanto tempo assim...」
+<enT0023>"そうですか……もうそんなになりますか……"
+<ptT0023>"ｹ mesmo... jｬ faz tanto tempo assim..."
 
 //TEXT 【司】
-<enT0024>「それでゆき、バイトは？」
-<ptT0024>「Mas e aｮ, Yuki, e o seu trabalho?」
+<enT0024>"それでゆき、バイトは？"
+<ptT0024>"Mas e aｮ, Yuki, e o seu trabalho?"
 
 //TEXT 【由岐】
-<enT0025>「残念ながら、バイトは大人の事情で休業です」
-<ptT0025>「Infelizmente, as minhas atividades profissionais estﾐo suspensas por motivos de forﾔa maior.」
+<enT0025>"残念ながら、バイトは大人の事情で休業です"
+<ptT0025>"Infelizmente, as minhas atividades profissionais estﾐo suspensas por motivos de forﾔa maior."
 
 //TEXT 【司】
-<enT0026>「大人の事情で休業って……」
-<ptT0026>「Suspensas por motivos de forﾔa maior...」
+<enT0026>"大人の事情で休業って……"
+<ptT0026>"Suspensas por motivos de forﾔa maior..."
 
 //TEXT
-<enT0027>「んな訳無いでしょ……
-<ptT0027>「Isso ｸ uma desculpa esfarrapada...
+<enT0027>"んな訳無いでしょ……
+<ptT0027>"Isso ｸ uma desculpa esfarrapada...
 
 //TEXT
-<enT0028>ああもう！　司、これ以上話すとバカがうつるから行くわよ！」
-<ptT0028>Ah, que saco! Tsukasa, vamos embora antes que a burrice dela seja contagiante!」
+<enT0028>ああもう！　司、これ以上話すとバカがうつるから行くわよ！"
+<ptT0028>Ah, que saco! Tsukasa, vamos embora antes que a burrice dela seja contagiante!"
 
 //TEXT 【司】
-<enT0029>「あはははは……そんなバカがうつるとか……お姉ちゃん……」
-<ptT0029>「Ahahaha... contagiante... irmﾐ...」
+<enT0029>"あはははは……そんなバカがうつるとか……お姉ちゃん……"
+<ptT0029>"Ahahaha... contagiante... irmﾐ..."
 
 //TEXT 【由岐】
-<enT0030>「なるほどね……たしかに……司のバカさがうつ――」
-<ptT0030>「Entendi... faz sentido... a burrice da Tsukasa ｸ mesmo conta--」
+<enT0030>"なるほどね……たしかに……司のバカさがうつ――"
+<ptT0030>"Entendi... faz sentido... a burrice da Tsukasa ｸ mesmo conta--"
 
 //TEXT
 <enT0031>　
 <ptT0031>
 
 //TEXT 【由岐】
-<enT0032>「ぎゃぅ」
-<ptT0032>「Gyah.」
+<enT0032>"ぎゃぅ"
+<ptT0032>"Gyah."
 
 //TEXT
-<enT0033>「司の事を悪く言うと殴るわよ……」
-<ptT0033>「Fala mal da Tsukasa de novo e eu te dou um soco...」
+<enT0033>"司の事を悪く言うと殴るわよ……"
+<ptT0033>"Fala mal da Tsukasa de novo e eu te dou um soco..."
 
 //TEXT 【司】
-<enT0034>「お、お姉ちゃん」
-<ptT0034>「I-Irmﾐ.」
+<enT0034>"お、お姉ちゃん"
+<ptT0034>"I-Irmﾐ."
 
 //TEXT 【由岐】
-<enT0035>「もう殴られています……」
-<ptT0035>「Vocﾂ jｬ deu...」
+<enT0035>"もう殴られています……"
+<ptT0035>"Vocﾂ jｬ deu..."
 
 //TEXT
-<enT0036>「バレエに先手ありよ……」
-<ptT0036>「No balｸ, o primeiro ataque ｸ o que conta...」
+<enT0036>"バレエに先手ありよ……"
+<ptT0036>"No balｸ, o primeiro ataque ｸ o que conta..."
 
 //TEXT 【由岐】
-<enT0037>「バレエ関係ないしっ、つーかあんたそんなもん習ってないでしょ！」
-<ptT0037>「O balｸ nﾐo tem nada a ver com isso! E outra, vocﾂ nem faz balｸ!」
+<enT0037>"バレエ関係ないしっ、つーかあんたそんなもん習ってないでしょ！"
+<ptT0037>"O balｸ nﾐo tem nada a ver com isso! E outra, vocﾂ nem faz balｸ!"
 
 //TEXT
-<enT0038>「って……そんな事まで知ってて名前は覚えてないわけなの？」
-<ptT0038>「Espera... vocﾂ sabe atｸ disso mas diz que nﾐo lembra o meu nome?」
+<enT0038>"って……そんな事まで知ってて名前は覚えてないわけなの？"
+<ptT0038>"Espera... vocﾂ sabe atｸ disso mas diz que nﾐo lembra o meu nome?"
 
 //TEXT 【由岐】
-<enT0039>「あーえっと……そんで若槻姉妹どもは何をやってるの？」
-<ptT0039>「Ah, hﾐ... e o que as irmﾐs Wakatsuki estﾐo aprontando?」
+<enT0039>"あーえっと……そんで若槻姉妹どもは何をやってるの？"
+<ptT0039>"Ah, hﾐ... e o que as irmﾐs Wakatsuki estﾐo aprontando?"
 
 //TEXT
-<enT0040>「どもって何よ……私達は部活の帰り！　あなたとは違うの」
-<ptT0040>「Como assim 'aprontando'?! Nｺs estamos voltando do clube! Diferente de vocﾂ.」
+<enT0040>"どもって何よ……私達は部活の帰り！　あなたとは違うの"
+<ptT0040>"Como assim 'aprontando'?! Nｺs estamos voltando do clube! Diferente de vocﾂ."
 
 //TEXT
-<enT0041>「んじゃねっ」
-<ptT0041>「Tchau.」
+<enT0041>"んじゃねっ"
+<ptT0041>"Tchau."
 
 //TEXT 【由岐】
-<enT0042>「鏡は相変わらず……ツンツンしてるねぇ」
-<ptT0042>「A Kagami continua esquentadinha como sempre...」
+<enT0042>"鏡は相変わらず……ツンツンしてるねぇ"
+<ptT0042>"A Kagami continua esquentadinha como sempre..."
 
 //TEXT 【司】
-<enT0043>「名前分かってるくせにそうやって意地悪……」
-<ptT0043>「Vocﾂ sｺ faz essas provocaﾔﾒes porque sabe o nome dela...」
+<enT0043>"名前分かってるくせにそうやって意地悪……"
+<ptT0043>"Vocﾂ sｺ faz essas provocaﾔﾒes porque sabe o nome dela..."
 
 //TEXT 【由岐】
-<enT0044>「いやさ……私ってツンデレだからさ……」
-<ptT0044>「ｹ que... eu sou meio tsundere, sabe...」
+<enT0044>"いやさ……私ってツンデレだからさ……"
+<ptT0044>"ｹ que... eu sou meio tsundere, sabe..."
 
 //TEXT 【司】
-<enT0045>「人に意地悪する口実がツンデレとは言わないんだよ」
-<ptT0045>「Usar tsundere como desculpa pra ser chata com os outros nﾐo cola.」
+<enT0045>"人に意地悪する口実がツンデレとは言わないんだよ"
+<ptT0045>"Usar tsundere como desculpa pra ser chata com os outros nﾐo cola."
 
 //TEXT 【由岐】
-<enT0046>「そうなん？」
-<ptT0046>「ｹ mesmo?」
+<enT0046>"そうなん？"
+<ptT0046>"ｹ mesmo?"
 
 //TEXT 【司】
-<enT0047>「うん、良く分からないけど……たぶんそうだよ」
-<ptT0047>「Uhum, nﾐo tenho muita certeza... mas acho que sim.」
+<enT0047>"うん、良く分からないけど……たぶんそうだよ"
+<ptT0047>"Uhum, nﾐo tenho muita certeza... mas acho que sim."
 
 //TEXT 【由岐】
-<enT0048>「でも鏡はいつでも怒ってるねぇ……」
-<ptT0048>「Mas a Kagami tｬ sempre irritada...」
+<enT0048>"でも鏡はいつでも怒ってるねぇ……"
+<ptT0048>"Mas a Kagami tｬ sempre irritada..."
 
 //TEXT 【司】
-<enT0049>「そんな事ないよ。お姉ちゃんは優しいよ」
-<ptT0049>「Nﾐo ｸ verdade. A minha irmﾐ ｸ um doce.」
+<enT0049>"そんな事ないよ。お姉ちゃんは優しいよ"
+<ptT0049>"Nﾐo ｸ verdade. A minha irmﾐ ｸ um doce."
 
 //TEXT 【由岐】
-<enT0050>「え？　いつも怒ってるじゃん」
-<ptT0050>「Hﾐ? Mas ela tｬ sempre possessa.」
+<enT0050>"え？　いつも怒ってるじゃん"
+<ptT0050>"Hﾐ? Mas ela tｬ sempre possessa."
 
 //TEXT 【司】
-<enT0051>「違うよ。ゆきが怒らせてるんだって……」
-<ptT0051>「Nﾐo tｬ nada. Vocﾂ que deixa ela assim...」
+<enT0051>"違うよ。ゆきが怒らせてるんだって……"
+<ptT0051>"Nﾐo tｬ nada. Vocﾂ que deixa ela assim..."
 
 //TEXT 【由岐】
-<enT0052>「私は怒らせる様な事なんて言ってないぞ？」
-<ptT0052>「Mas eu nem disse nada demais pra irritar ela.」
+<enT0052>"私は怒らせる様な事なんて言ってないぞ？"
+<ptT0052>"Mas eu nem disse nada demais pra irritar ela."
 
 //TEXT 【司】
-<enT0053>「あはは……ゆき、それ本当なら無邪気な邪鬼って言葉覚えた方がいいかなぁ……」
-<ptT0053>「Ahaha... Yuki, se isso for verdade, acho melhor vocﾂ pesquisar o que significa 'demﾄnio inocente'...」
+<enT0053>"あはは……ゆき、それ本当なら無邪気な邪鬼って言葉覚えた方がいいかなぁ……"
+<ptT0053>"Ahaha... Yuki, se isso for verdade, acho melhor vocﾂ pesquisar o que significa 'demﾄnio inocente'..."
 
 //TEXT 【由岐】
-<enT0054>「あはは、知ってるよ。司の事でしょ。自虐だなぁ」
-<ptT0054>「Ahaha, eu sei o que ｸ. Tｬ falando da Tsukasa, nｸ? Quanta depreciaﾔﾐo.」
+<enT0054>"あはは、知ってるよ。司の事でしょ。自虐だなぁ"
+<ptT0054>"Ahaha, eu sei o que ｸ. Tｬ falando da Tsukasa, nｸ? Quanta depreciaﾔﾐo."
 
 //TEXT
 <enT0055>　
 <ptT0055>
 
 //TEXT 【司】
-<enT0056>「あはは……ゆきぃ」
-<ptT0056>「Ahaha... Yukiii.」
+<enT0056>"あはは……ゆきぃ"
+<ptT0056>"Ahaha... Yukiii."
 
 //TEXT
 <enT0057>　ミシィ……。
 <ptT0057>　Creck...
 
 //TEXT 【由岐】
-<enT0058>「あはは……あのね、司……」
-<ptT0058>「Ahaha... sabe o que ｸ, Tsukasa...」
+<enT0058>"あはは……あのね、司……"
+<ptT0058>"Ahaha... sabe o que ｸ, Tsukasa..."
 
 //TEXT 【司】
-<enT0059>「ん？」
-<ptT0059>「Hm?」
+<enT0059>"ん？"
+<ptT0059>"Hm?"
 
 //TEXT 【由岐】
-<enT0060>「わ、私の足つぶれちゃうよ……そんな踏みつけたら……」
-<ptT0060>「O-O meu pｸ vai ser esmagado... se vocﾂ continuar pisando nele assim...」
+<enT0060>"わ、私の足つぶれちゃうよ……そんな踏みつけたら……"
+<ptT0060>"O-O meu pｸ vai ser esmagado... se vocﾂ continuar pisando nele assim..."
 
 //TEXT 【司】
-<enT0061>「あ、ごめんっっ。
-<ptT0061>「Ah, desculpa!
+<enT0061>"あ、ごめんっっ。
+<ptT0061>"Ah, desculpa!
 
 //TEXT
-<enT0062>気が付かなかったよ」
-<ptT0062>Eu nem reparei.」
+<enT0062>気が付かなかったよ"
+<ptT0062>Eu nem reparei."
 
 //TEXT
 <enT0063>　んな訳ないだろ……。
@@ -273,40 +273,40 @@
 <ptT0064>　O sangue Wakatsuki nﾐo nega... a agressividade ｸ a mesma nas duas... mesmo com personalidades opostas...
 
 //TEXT 【司】
-<enT0065>「なんかひどい事考えてない？　ゆき？」
-<ptT0065>「Vocﾂ nﾐo tｬ pensando em nenhuma besteira, tｬ? Yuki?」
+<enT0065>"なんかひどい事考えてない？　ゆき？"
+<ptT0065>"Vocﾂ nﾐo tｬ pensando em nenhuma besteira, tｬ? Yuki?"
 
 //TEXT 【由岐】
-<enT0066>「え？　そ、そんな事ないよ……あはは」
-<ptT0066>「Hﾐ? N-Nﾐo, imagina... ahaha.」
+<enT0066>"え？　そ、そんな事ないよ……あはは"
+<ptT0066>"Hﾐ? N-Nﾐo, imagina... ahaha."
 
 //TEXT 【司】
-<enT0067>「ふぅ……でもね……ゆき。お姉ちゃんにとってゆきはずっと目標だったんだよ……」
-<ptT0067>「Ufa... mas sabe... Yuki. Vocﾂ sempre foi o maior espelho da minha irmﾐ...」
+<enT0067>"ふぅ……でもね……ゆき。お姉ちゃんにとってゆきはずっと目標だったんだよ……"
+<ptT0067>"Ufa... mas sabe... Yuki. Vocﾂ sempre foi o maior espelho da minha irmﾐ..."
 
 //TEXT 【由岐】
-<enT0068>「……目標？」
-<ptT0068>「...Espelho?」
+<enT0068>"……目標？"
+<ptT0068>"...Espelho?"
 
 //TEXT 【司】
-<enT0069>「だから、もう少しゆきもお姉ちゃんに優しくしてあげるといいと思うけどなぁ」
-<ptT0069>「Por isso, eu acho que vocﾂ deveria ser um pouquinho mais gentil com ela...」
+<enT0069>"だから、もう少しゆきもお姉ちゃんに優しくしてあげるといいと思うけどなぁ"
+<ptT0069>"Por isso, eu acho que vocﾂ deveria ser um pouquinho mais gentil com ela..."
 
 //TEXT 【由岐】
-<enT0070>「優しくねぇ……」
-<ptT0070>「Mais gentil, ｸ...」
+<enT0070>"優しくねぇ……"
+<ptT0070>"Mais gentil, ｸ..."
 
 //TEXT
 <enT0071>　優しくか……まぁ、司の言う事は良く分かるんだけど……実際……。
 <ptT0071>　Mais gentil... olha, eu atｸ entendo o lado da Tsukasa... mas na prｬtica...
 
 //TEXT 【鏡】
-<enT0072>「ほら司っ！　もう帰るわよ！」
-<ptT0072>「Vem logo, Tsukasa! Nｺs jｬ vamos embora!」
+<enT0072>"ほら司っ！　もう帰るわよ！"
+<ptT0072>"Vem logo, Tsukasa! Nｺs jｬ vamos embora!"
 
 //TEXT 【司】
-<enT0073>「わ、分かったよ。んじゃゆき」
-<ptT0073>「J-Jｬ vou. Tchau, Yuki.」
+<enT0073>"わ、分かったよ。んじゃゆき"
+<ptT0073>"J-Jｬ vou. Tchau, Yuki."
 
 //TEXT
 <enT0074>　
@@ -329,20 +329,20 @@
 <ptT0078>Por que serｬ?
 
 //TEXT 【由岐】
-<enT0079>「昔っから……ああやって司は鏡を追いかけてたからだろうなぁ……」
-<ptT0079>「Deve ser porque a Tsukasa sempre correu atrｬs da Kagami desde que ｸramos crianﾔas...」
+<enT0079>"昔っから……ああやって司は鏡を追いかけてたからだろうなぁ……"
+<ptT0079>"Deve ser porque a Tsukasa sempre correu atrｬs da Kagami desde que ｸramos crianﾔas..."
 
 //TEXT
 <enT0080>　と言っても、そんな風景を思い出す事は出来ない……にも関わらずなんかその姿を懐かしく感じた……。
 <ptT0080>　Apesar de dizer isso, eu nﾐo consigo me lembrar de nenhuma cena assim... mas, mesmo sem lembrar, eu senti uma nostalgia vendo as duas.
 
 //TEXT 【由岐】
-<enT0081>「さてと……」
-<ptT0081>「Bom, vamos lｬ...」
+<enT0081>"さてと……"
+<ptT0081>"Bom, vamos lｬ..."
 
 //TEXT 【由岐】
-<enT0082>「今日は杉ノ宮くんだりまで来て、お気に入りのバンドの新譜を買いに来たんだっけなぁ……」
-<ptT0082>「Eu vim atｸ os cafundｺs de Suginomiya hoje sｺ pra comprar o lanﾔamento da minha banda favorita...」
+<enT0082>"今日は杉ノ宮くんだりまで来て、お気に入りのバンドの新譜を買いに来たんだっけなぁ……"
+<ptT0082>"Eu vim atｸ os cafundｺs de Suginomiya hoje sｺ pra comprar o lanﾔamento da minha banda favorita..."
 
 //TEXT
 <enT0083>　駅前のロータリーを少し外れると人混みがなくなり……住宅が増えてくる。
@@ -361,8 +361,8 @@
 <ptT0086>　Sｺ que...
 
 //TEXT 【由岐】
-<enT0087>「あれ？　なんか道間違えたっけ？」
-<ptT0087>「Uｸ? Serｬ que eu errei o caminho?」
+<enT0087>"あれ？　なんか道間違えたっけ？"
+<ptT0087>"Uｸ? Serｬ que eu errei o caminho?"
 
 //TEXT
 <enT0088>　なんか知らないけど……私は良く知らない場所を歩いていた。
@@ -373,20 +373,20 @@
 <ptT0089>　Uｸ? Eu tinha certeza de que conhecia essa rua...
 
 //TEXT 【由岐】
-<enT0090>「CD屋ってこっちだったよな……なんか知らない場所だぞ」
-<ptT0090>「A loja de CDs era pra cｬ... que lugar bizarro ｸ esse?」
+<enT0090>"CD屋ってこっちだったよな……なんか知らない場所だぞ"
+<ptT0090>"A loja de CDs era pra cｬ... que lugar bizarro ｸ esse?"
 
 //TEXT
 <enT0091>　路地を一本間違えて入ったかな？
 <ptT0091>　Serｬ que eu entrei no beco errado?
 
 //TEXT
-<enT0092>「……」
-<ptT0092>「……」
+<enT0092>"……"
+<ptT0092>"……"
 
 //TEXT 【由岐】
-<enT0093>「ん？　なんだ？」
-<ptT0093>「Hm? O que foi isso?」
+<enT0093>"ん？　なんだ？"
+<ptT0093>"Hm? O que foi isso?"
 
 //TEXT
 <enT0094>　……今悲鳴みたいな声が聞こえた様な気がした様な……気がしたけど？？
@@ -401,16 +401,16 @@
 <ptT0096>　Passei a mﾐo no cabelo... e parecia ter um pouco de cascalho.
 
 //TEXT 【由岐】
-<enT0097>「？　っ、砂利？　上から？」
-<ptT0097>「? Cascalho? Veio de cima?」
+<enT0097>"？　っ、砂利？　上から？"
+<ptT0097>"? Cascalho? Veio de cima?"
 
 //TEXT
 <enT0098>　上を見上げる。ちょうど目の前のマンションの屋上のあたりが見える。
 <ptT0098>　Olhei para cima. Dava pra ver certinho o terraﾔo do prｸdio residencial logo ali na frente.
 
 //TEXT 【由岐】
-<enT0099>「人影？　お？　おお？」
-<ptT0099>「Tem gente ali? Opa? Eita?」
+<enT0099>"人影？　お？　おお？"
+<ptT0099>"Tem gente ali? Opa? Eita?"
 
 //TEXT
 <enT0100>　ちょ待て、なんだあれ……？\n&
@@ -421,28 +421,28 @@
 <ptT0101>O que estﾐo fazendo num lugar daqueles...!!
 
 //TEXT 【由岐】
-<enT0102>「人がもみ合ってる！？」
-<ptT0102>「Estﾐo brigando!?」
+<enT0102>"人がもみ合ってる！？"
+<ptT0102>"Estﾐo brigando!?"
 
 //TEXT 【由岐】
-<enT0103>「つーかあれ、フェンス乗り越えてないか？」
-<ptT0103>「Pior, elas pularam a grade de proteﾔﾐo, nﾐo pularam?」
+<enT0103>"つーかあれ、フェンス乗り越えてないか？"
+<ptT0103>"Pior, elas pularam a grade de proteﾔﾐo, nﾐo pularam?"
 
 //TEXT
 <enT0104>　金網を乗り越えた屋上の縁で人がもみ合っている。あのままじゃそのまま転落してしまう。
 <ptT0104>　Tinham duas pessoas se empurrando na beirada do terraﾔo, do lado de fora da grade. Se continuarem assim, vﾐo despencar.
 
 //TEXT 【由岐】
-<enT0105>「な、なんだっそれ！」
-<ptT0105>「M-Mas que maluquice ｸ essa!」
+<enT0105>"な、なんだっそれ！"
+<ptT0105>"M-Mas que maluquice ｸ essa!"
 
 //TEXT
 <enT0106>　夕日を背に受ける形で……上で行われている事は良く見えなかった……けど何となくその影は何となくうちの学校の制服に見えた。
 <ptT0106>　O pﾄr do sol estava bem atrｬs delas... nﾐo dava pra ver direito o que estava rolando lｬ em cima... mas as silhuetas lembravam muito o uniforme da nossa escola.
 
 //TEXT 【由岐】
-<enT0107>「くっ」
-<ptT0107>「Droga.」
+<enT0107>"くっ"
+<ptT0107>"Droga."
 
 //TEXT
 <enT0108>　さすがに私はマンションに向かう。
@@ -457,8 +457,8 @@
 <ptT0110>　Apertei o botﾐo do elevador no tｸrreo, mas a porcaria demorava demais pra descer.
 
 //TEXT 【由岐】
-<enT0111>「何やってるのっっもう！」
-<ptT0111>「Desce logo, caramba!」
+<enT0111>"何やってるのっっもう！"
+<ptT0111>"Desce logo, caramba!"
 
 //TEXT
 <enT0112>　階段は外か？
@@ -545,8 +545,8 @@
 <ptT0132>A famosa passagem do filme da sua vida?
 
 //TEXT 【由岐】
-<enT0133>「うぉおおおおおっっ」
-<ptT0133>「Uooooooooooooh!!!」
+<enT0133>"うぉおおおおおっっ"
+<ptT0133>"Uooooooooooooh!!!"
 
 //TEXT
 <enT0134>　大きく何かを叩く様な音……家の壁をけっ飛ばした様な音をもっと大きくしたような……。
@@ -565,8 +565,8 @@
 <ptT0137>　Nﾐo... eu realmente achei que esse tinha sido o barulho da queda...
 
 //TEXT
-<enT0138>「ぽよんっ」
-<ptT0138>「Poing」
+<enT0138>"ぽよんっ"
+<ptT0138>"Poing"
 
 //TEXT
 <enT0139>　
@@ -577,8 +577,8 @@
 <ptT0140>　Poing?
 
 //TEXT 【由岐】
-<enT0141>「おっ？」
-<ptT0141>「Hﾐ?」
+<enT0141>"おっ？"
+<ptT0141>"Hﾐ?"
 
 //TEXT
 <enT0142>　ずささーっと勢いよくすべりこんだ私の頭上に、ぽよよーんと何かが激突する。
@@ -589,8 +589,8 @@
 <ptT0143>　Essa coisa que causou um "impacto brutal", bateu na minha jaca e saiu quicando pelo asfalto fazendo outro "poing".
 
 //TEXT 【由岐】
-<enT0144>「お？」
-<ptT0144>「Oi?」
+<enT0144>"お？"
+<ptT0144>"Oi?"
 
 //TEXT
 <enT0145>　何事？
@@ -605,8 +605,8 @@
 <ptT0147>　Fui lｬ recolher o que tinha caｮdo.
 
 //TEXT 【由岐】
-<enT0148>「……ぬいぐるみ……」
-<ptT0148>「...Um bicho de pelｶcia...」
+<enT0148>"……ぬいぐるみ……"
+<ptT0148>"...Um bicho de pelｶcia..."
 
 //TEXT
 <enT0149>　なんだこいつ……なんでぬいぐるみの分際で私を睨んでるんだ？
@@ -629,8 +629,8 @@
 <ptT0153>　Entﾐo eu vou mandar na lata.
 
 //TEXT 【由岐】
-<enT0154>「こっちはあんたのために死ぬ気で走ったんだいっっ。少しは感謝しろっっ」
-<ptT0154>「Eu quase tive um infarto correndo pra te salvar. Mostra um pingo de gratidﾐo, porra!」
+<enT0154>"こっちはあんたのために死ぬ気で走ったんだいっっ。少しは感謝しろっっ"
+<ptT0154>"Eu quase tive um infarto correndo pra te salvar. Mostra um pingo de gratidﾐo, porra!"
 
 //TEXT
 <enT0155>　頭上を見上げようとしたその瞬間、
@@ -645,24 +645,24 @@
 <ptT0157>
 
 //TEXT 【由岐】
-<enT0158>「わぁっ」
-<ptT0158>「Ai!」
+<enT0158>"わぁっ"
+<ptT0158>"Ai!"
 
 //TEXT
 <enT0159>　別にさして痛いわけではないのだけど、顔面に落ちてきたソレに思わず声をあげる。
 <ptT0159>　Nﾐo que doesse tanto assim, mas soltei um gemido porque aquela coisa despencou direto na minha cara.
 
 //TEXT 【由岐】
-<enT0160>「っ、今度はなに？」
-<ptT0160>「Qual ｸ a da vez?」
+<enT0160>"っ、今度はなに？"
+<ptT0160>"Qual ｸ a da vez?"
 
 //TEXT
 <enT0161>　私の顔面に当たったソレを拾い上げる。
 <ptT0161>　Peguei a coisa que me acertou do chﾐo.
 
 //TEXT 【由岐】
-<enT0162>「……感じ悪いなぁ……」
-<ptT0162>「...Que bicho folgado...」
+<enT0162>"……感じ悪いなぁ……"
+<ptT0162>"...Que bicho folgado..."
 
 //TEXT
 <enT0163>　こっちは必死の覚悟で助けに入ったのに……、
@@ -677,8 +677,8 @@
 <ptT0165>　Aff...
 
 //TEXT 【由岐】
-<enT0166>「なんだこれ……なんでぬいぐるみが……空から落ちてくるんだ？」
-<ptT0166>「Que situaﾔﾐo mais merda... por que diabos tem bicho de pelｶcia... chovendo do cｸu?」
+<enT0166>"なんだこれ……なんでぬいぐるみが……空から落ちてくるんだ？"
+<ptT0166>"Que situaﾔﾐo mais merda... por que diabos tem bicho de pelｶcia... chovendo do cｸu?"
 
 //TEXT
 <enT0167>　ぬいぐるみが空から降ってくる理由なんていくつもない。
@@ -697,32 +697,32 @@
 <ptT0170>　Pros jovenzinhos de hoje em dia, seria Sora no Otoshimono... nﾐo, atｸ esse anime jｬ deve estar velho pra eles... mas afinal, como ｸ que eu explico isso aqui?
 
 //TEXT 【由岐】
-<enT0171>「いや……これは……論点がずれとるな……」
-<ptT0171>「Esquece... eu tﾄ viajando muito na maionese...」
+<enT0171>"いや……これは……論点がずれとるな……"
+<ptT0171>"Esquece... eu tﾄ viajando muito na maionese..."
 
 //TEXT
 <enT0172>　私は頭上を見上げてみる。
 <ptT0172>　Finalmente olhei de novo pro terraﾔo.
 
 //TEXT 【由岐】
-<enT0173>「あれだ……」
-<ptT0173>「Ali...」
+<enT0173>"あれだ……"
+<ptT0173>"Ali..."
 
 //TEXT
 <enT0174>　マンションの屋上には黒い影が動いている。
 <ptT0174>　Tinha uma silhueta escura se mexendo na beirada do prｸdio.
 
 //TEXT 【由岐】
-<enT0175>「……何をやってるんだろう……」
-<ptT0175>「...O que ela tｬ inventando agora...」
+<enT0175>"……何をやってるんだろう……"
+<ptT0175>"...O que ela tｬ inventando agora..."
 
 //TEXT
 <enT0176>　黒い影はじぃーーっと下を覗き込んで、私の存在に気が付いたのか少しだけビクリと震えた。
 <ptT0176>　A silhueta estava espiando pra baixo lｬ no chﾐo e deu um leve pulo, acho que finalmente me viu aqui embaixo.
 
 //TEXT 【由岐】
-<enT0177>「……イタズラなのかな……これって……」
-<ptT0177>「...Isso ｸ algum tipo de pegadinha...?」
+<enT0177>"……イタズラなのかな……これって……"
+<ptT0177>"...Isso ｸ algum tipo de pegadinha...?"
 
 //TEXT
 <enT0178>　とりあえず、ぬいぐるみを両手に持って“この子たち落ちたわよー”といった感じに頭上にかざしてみる。
@@ -741,8 +741,8 @@
 <ptT0181>　Sem pensar muito...
 
 //TEXT 【由岐】
-<enT0182>「わーっっ」
-<ptT0182>「Nﾐo pula!!!」
+<enT0182>"わーっっ"
+<ptT0182>"Nﾐo pula!!!"
 
 //TEXT
 <enT0183>　訳も分からず叫んで手を広げていた。
@@ -761,8 +761,8 @@
 <ptT0186>　Atｸ que a silhueta... virou de costas e sumiu voltando pro terraﾔo.
 
 //TEXT 【由岐】
-<enT0187>「ふぅ……自殺じゃなかったのか……」
-<ptT0187>「Ufa... ela nﾐo queria pular no fim das contas...」
+<enT0187>"ふぅ……自殺じゃなかったのか……"
+<ptT0187>"Ufa... ela nﾐo queria pular no fim das contas..."
 
 //TEXT
 <enT0188>　少しだけ驚いた……なんか飛び降りる気だと一瞬思ってしまった……。
@@ -785,8 +785,8 @@
 <ptT0192>　O vento no alto do prｸdio balanﾔava seus cabelos longos de um lado pro outro... a figura dela emitia uma aura mｮstica, meio deslocada da realidade...
 
 //TEXT
-<enT0193>「ごめんなさい」
-<ptT0193>「Mil desculpas.」
+<enT0193>"ごめんなさい"
+<ptT0193>"Mil desculpas."
 
 //TEXT
 <enT0194>　文句言おうと思ったら……開口一番謝られた……。
@@ -797,60 +797,60 @@
 <ptT0195>　Aｮ quebrou as minhas pernas... eu tava pronta pra barbarizar e gritar...
 
 //TEXT 【由岐】
-<enT0196>「……いや、謝るぐらいなら、こんなイタズラなんか……」
-<ptT0196>「...Putz, se vocﾂ sabe que tｬ fazendo merda, era melhor nem ficar jogando pelｶcia nas pessoas, nｸ...」
+<enT0196>"……いや、謝るぐらいなら、こんなイタズラなんか……"
+<ptT0196>"...Putz, se vocﾂ sabe que tｬ fazendo merda, era melhor nem ficar jogando pelｶcia nas pessoas, nｸ..."
 
 //TEXT
-<enT0197>「イタズラ？」
-<ptT0197>「Pegadinha?」
+<enT0197>"イタズラ？"
+<ptT0197>"Pegadinha?"
 
 //TEXT
 <enT0198>　少女は、私の“イタズラ”という言葉にえらく疑問を持ったらしい。
 <ptT0198>　A garota franziu a testa, como se a palavra "pegadinha" fosse um absurdo pra ela.
 
 //TEXT 【由岐】
-<enT0199>「あれ？　イタズラでやった事じゃないの？」
-<ptT0199>「Uｸ? E aquilo nﾐo foi zoeira pra assustar quem tｬ lｬ embaixo?」
+<enT0199>"あれ？　イタズラでやった事じゃないの？"
+<ptT0199>"Uｸ? E aquilo nﾐo foi zoeira pra assustar quem tｬ lｬ embaixo?"
 
 //TEXT
-<enT0200>「はい……でも巻き込んでしまったみたいですね……ごめんなさい」
-<ptT0200>「Ah... na verdade eu acabei te arrastando para o meio disso tudo... sinto muito mesmo.」
+<enT0200>"はい……でも巻き込んでしまったみたいですね……ごめんなさい"
+<ptT0200>"Ah... na verdade eu acabei te arrastando para o meio disso tudo... sinto muito mesmo."
 
 //TEXT 【由岐】
-<enT0201>「巻き込んだ？」
-<ptT0201>「Me arrastou pra quﾂ?」
+<enT0201>"巻き込んだ？"
+<ptT0201>"Me arrastou pra quﾂ?"
 
 //TEXT
-<enT0202>「水上由岐さんですよね……」
-<ptT0202>「Vocﾂ ｸ a Yuki Minakami, certo?」
+<enT0202>"水上由岐さんですよね……"
+<ptT0202>"Vocﾂ ｸ a Yuki Minakami, certo?"
 
 //TEXT 【由岐】
-<enT0203>「あ、うん……やっぱり北校の生徒なんだ」
-<ptT0203>「Ah, sou... jｬ imaginava que vocﾂ fosse do Colｸgio Norte pelo seu uniforme.」
+<enT0203>"あ、うん……やっぱり北校の生徒なんだ"
+<ptT0203>"Ah, sou... jｬ imaginava que vocﾂ fosse do Colｸgio Norte pelo seu uniforme."
 
 //TEXT
 <enT0204>　制服が思いっきり北校だから分かる。
 <ptT0204>　Qualquer um saberia batendo o olho nas roupas dela.
 
 //TEXT 【由岐】
-<enT0205>「あなたは？」
-<ptT0205>「E qual ｸ o seu nome?」
+<enT0205>"あなたは？"
+<ptT0205>"E qual ｸ o seu nome?"
 
 //TEXT BACKLOG
-<enT0206>「高島ざくろです……水上さんの隣のクラスの……」
-<ptT0206>「Eu sou a Zakuro Takashima... da sala do lado da sua...」
+<enT0206>"高島ざくろです……水上さんの隣のクラスの……"
+<ptT0206>"Eu sou a Zakuro Takashima... da sala do lado da sua..."
 
 //TEXT
-<enT0207>「高島ざくろです
-<ptT0207>「Eu sou a Zakuro Takashima
+<enT0207>"高島ざくろです
+<ptT0207>"Eu sou a Zakuro Takashima
 
 //TEXT 【ざくろ】
-<enT0208>……水上さんの隣のクラスの……」
-<ptT0208>...da sala do lado da sua...」
+<enT0208>……水上さんの隣のクラスの……"
+<ptT0208>...da sala do lado da sua..."
 
 //TEXT 【由岐】
-<enT0209>「隣のクラス？」
-<ptT0209>「Minha sala vizinha?」
+<enT0209>"隣のクラス？"
+<ptT0209>"Minha sala vizinha?"
 
 //TEXT
 <enT0210>　そう言えば、こんな娘もいたかなぁ……。\n&
@@ -861,36 +861,36 @@
 <ptT0211>　Mas nﾐo tem jeito, eu mal presto atenﾔﾐo no rosto do pessoal da minha sala... que dirｬ lembrar de quem senta do outro lado da parede.
 
 //TEXT 【ざくろ】
-<enT0212>「あはは……
-<ptT0212>「Ahaha...
+<enT0212>"あはは……
+<ptT0212>"Ahaha...
 
 //TEXT
-<enT0213>覚えてないんですか……」
-<ptT0213>Vocﾂ nﾐo lembra de mim, pelo visto...」
+<enT0213>覚えてないんですか……"
+<ptT0213>Vocﾂ nﾐo lembra de mim, pelo visto..."
 
 //TEXT 【由岐】
-<enT0214>「あはは……申し訳ない……」
-<ptT0214>「Ahaha... foi mal aｮ, mas juro que nﾐo ｸ por maldade...」
+<enT0214>"あはは……申し訳ない……"
+<ptT0214>"Ahaha... foi mal aｮ, mas juro que nﾐo ｸ por maldade..."
 
 //TEXT 【ざくろ】
-<enT0215>「まぁ……そうなんでしょうね……
-<ptT0215>「Tudo bem... eu jｬ esperava que esse fosse o caso...
+<enT0215>"まぁ……そうなんでしょうね……
+<ptT0215>"Tudo bem... eu jｬ esperava que esse fosse o caso...
 
 //TEXT
-<enT0216>何となく、それが分かりました……」
-<ptT0216>De alguma forma, eu jｬ sabia...」
+<enT0216>何となく、それが分かりました……"
+<ptT0216>De alguma forma, eu jｬ sabia..."
 
 //TEXT 【由岐】
-<enT0217>「何となくそれが分かった？」
-<ptT0217>「Sabia de alguma forma?」
+<enT0217>"何となくそれが分かった？"
+<ptT0217>"Sabia de alguma forma?"
 
 //TEXT 【ざくろ】
-<enT0218>「あ、
-<ptT0218>「Ah,
+<enT0218>"あ、
+<ptT0218>"Ah,
 
 //TEXT
-<enT0219>いいえ……ごめんなさい。ぬいぐるみが落ちて、水上さんとぶつかった時に、なんかそんな気がしたんですよ……」
-<ptT0219>esquece... ｸ que, quando o bicho de pelｶcia caiu e bateu na sua cabeﾔa, me deu essa impressﾐo...」
+<enT0219>いいえ……ごめんなさい。ぬいぐるみが落ちて、水上さんとぶつかった時に、なんかそんな気がしたんですよ……"
+<ptT0219>esquece... ｸ que, quando o bicho de pelｶcia caiu e bateu na sua cabeﾔa, me deu essa impressﾐo..."
 
 //TEXT
 <enT0220>　……。
@@ -921,8 +921,8 @@
 <ptT0226>　Meu Deus do cｸu... serｬ que ela ｸ daquelas garotas malucas que moram no mundo da lua?
 
 //TEXT 【ざくろ】
-<enT0227>「くす……ごめんなさい……なんか混乱させてしまったみたいですね……」
-<ptT0227>「Risos... Perdoe-me. Parece que eu acabei te deixando bem confusa, nﾐo ｸ?」
+<enT0227>"くす……ごめんなさい……なんか混乱させてしまったみたいですね……"
+<ptT0227>"Risos... Perdoe-me. Parece que eu acabei te deixando bem confusa, nﾐo ｸ?"
 
 //TEXT
 <enT0228>　わりかし……。
@@ -933,28 +933,28 @@
 <ptT0229>　Sｺ estiquei os braﾔos e devolvi os dois bichinhos para ela.
 
 //TEXT 【ざくろ】
-<enT0230>「…………受理、されなかったんですね……」
-<ptT0230>「............Nﾐo foram aceitos, pelo visto...」
+<enT0230>"…………受理、されなかったんですね……"
+<ptT0230>"............Nﾐo foram aceitos, pelo visto..."
 
 //TEXT 【由岐】
-<enT0231>「受理？」
-<ptT0231>「Aceitos?」
+<enT0231>"受理？"
+<ptT0231>"Aceitos?"
 
 //TEXT 【ざくろ】
-<enT0232>「……受け取ってもらえるって思ったんですけど……どうやら、無理だったみたいです」
-<ptT0232>「...Eu tinha tanta fｸ de que as minhas preces seriam recebidas... mas nﾐo teve jeito.」
+<enT0232>"……受け取ってもらえるって思ったんですけど……どうやら、無理だったみたいです"
+<ptT0232>"...Eu tinha tanta fｸ de que as minhas preces seriam recebidas... mas nﾐo teve jeito."
 
 //TEXT 【ざくろ】
-<enT0233>「しかも、水上さんまで巻き込んで……ひどい話です……」
-<ptT0233>「Sem falar que, no fim, vocﾂ acabou pagando o pato... deve ter sido uma experiﾂncia horrｮvel...」
+<enT0233>"しかも、水上さんまで巻き込んで……ひどい話です……"
+<ptT0233>"Sem falar que, no fim, vocﾂ acabou pagando o pato... deve ter sido uma experiﾂncia horrｮvel..."
 
 //TEXT
 <enT0234>　いや……正直言うと……ひどい話では無く、ひどい説明放棄……というのが私の感想だけど……。
 <ptT0234>　Olha... pra ser honesta com vocﾂ, nﾐo foi nada horrｮvel. A ｷnica coisa horrｮvel ｸ que atｸ agora ninguｸm explicou bulhufas do que aconteceu.
 
 //TEXT 【由岐】
-<enT0235>「何これ？　イタズラじゃないんだったら……何かのまじない？」
-<ptT0235>「Sｸrio agora, o que tｬ pegando? Se nﾐo foi zoeira... vocﾂ tｬ tentando fazer alguma simpatia estranha?」
+<enT0235>"何これ？　イタズラじゃないんだったら……何かのまじない？"
+<ptT0235>"Sｸrio agora, o que tｬ pegando? Se nﾐo foi zoeira... vocﾂ tｬ tentando fazer alguma simpatia estranha?"
 
 //TEXT
 <enT0236>　受理とか言ってたし……まぁその類だろうなぁ……。
@@ -965,16 +965,16 @@
 <ptT0237>　O que diz o manual de bruxaria? Se atirar duas pelｶcias do alto de um prｸdio num pﾄr do sol, o gﾂnio da lｼmpada aparece pra realizar um desejo?
 
 //TEXT 【ざくろ】
-<enT0238>「まじない……あははは……そうですね。その通りです……」
-<ptT0238>「Simpatia... ahahaha... sim. Talvez eu pudesse chamar assim...」
+<enT0238>"まじない……あははは……そうですね。その通りです……"
+<ptT0238>"Simpatia... ahahaha... sim. Talvez eu pudesse chamar assim..."
 
 //TEXT 【由岐】
-<enT0239>「そうなんだ……恋のおまじないみたいな感じかな？」
-<ptT0239>「Sabia... era simpatia pra fazer o ex voltar ou tentar amarrar aquele moleque bonito da outra sala?」
+<enT0239>"そうなんだ……恋のおまじないみたいな感じかな？"
+<ptT0239>"Sabia... era simpatia pra fazer o ex voltar ou tentar amarrar aquele moleque bonito da outra sala?"
 
 //TEXT 【ざくろ】
-<enT0240>「……え？」
-<ptT0240>「...Hﾐ?」
+<enT0240>"……え？"
+<ptT0240>"...Hﾐ?"
 
 //TEXT
 <enT0241>　なぜか、赤くなる少女……。
@@ -985,148 +985,148 @@
 <ptT0242>　Acertou bem na mosca?
 
 //TEXT 【ざくろ】
-<enT0243>「……あの、水上さんはどうして……あの時手を広げたんですか？」
-<ptT0243>「...Me tira uma dｶvida, Yuki... por que vocﾂ... esticou os braﾔos daquele jeito?」
+<enT0243>"……あの、水上さんはどうして……あの時手を広げたんですか？"
+<ptT0243>"...Me tira uma dｶvida, Yuki... por que vocﾂ... esticou os braﾔos daquele jeito?"
 
 //TEXT 【由岐】
-<enT0244>「へ？」
-<ptT0244>「Hﾐ?」
+<enT0244>"へ？"
+<ptT0244>"Hﾐ?"
 
 //TEXT 【ざくろ】
-<enT0245>「私が屋上から下を覗いていた時……広げてましたよね」
-<ptT0245>「Quando eu desviei o olhar para a rua... os seus braﾔos tavam abertos como se fosse pular pra cima de algo.」
+<enT0245>"私が屋上から下を覗いていた時……広げてましたよね"
+<ptT0245>"Quando eu desviei o olhar para a rua... os seus braﾔos tavam abertos como se fosse pular pra cima de algo."
 
 //TEXT 【由岐】
-<enT0246>「あ、いやそれは別に……ぬいぐるみ捜してるのかなぁとは思ったのと……あとさ、なんだか飛び降りそうな気がして少し恐かったからさ……」
-<ptT0246>「Ah, fala sｸrio, quem nﾐo ficaria em pｼnico... eu jｬ sabia que vocﾂ tava espionando o chﾐo pra achar os bichos, mas... do jeito que vocﾂ ameaﾔou escorregar pra beirada, eu jurei que vocﾂ queria se jogar lｬ de cima...」
+<enT0246>"あ、いやそれは別に……ぬいぐるみ捜してるのかなぁとは思ったのと……あとさ、なんだか飛び降りそうな気がして少し恐かったからさ……"
+<ptT0246>"Ah, fala sｸrio, quem nﾐo ficaria em pｼnico... eu jｬ sabia que vocﾂ tava espionando o chﾐo pra achar os bichos, mas... do jeito que vocﾂ ameaﾔou escorregar pra beirada, eu jurei que vocﾂ queria se jogar lｬ de cima..."
 
 //TEXT 【ざくろ】
-<enT0247>「飛び降りる……」
-<ptT0247>「Me jogar...」
+<enT0247>"飛び降りる……"
+<ptT0247>"Me jogar..."
 
 //TEXT 【由岐】
-<enT0248>「いや、まぁなんていうのかね、たまたまなんだけど、高島さんのシルエット……風に吹かれたらそのまま飛ばされちゃいそうなくらい危うく見えたから……」
-<ptT0248>「Sei lｬ, ｸ difｮcil de explicar... mas por conta da contraluz e debaixo daquela ventania... a sua silhueta parecia tﾐo frｬgil que eu achei que se vocﾂ desse mais um passo pra beirada, seria varrida junto com o vento pro buraco...」
+<enT0248>"いや、まぁなんていうのかね、たまたまなんだけど、高島さんのシルエット……風に吹かれたらそのまま飛ばされちゃいそうなくらい危うく見えたから……"
+<ptT0248>"Sei lｬ, ｸ difｮcil de explicar... mas por conta da contraluz e debaixo daquela ventania... a sua silhueta parecia tﾐo frｬgil que eu achei que se vocﾂ desse mais um passo pra beirada, seria varrida junto com o vento pro buraco..."
 
 //TEXT 【ざくろ】
-<enT0249>「だから……落ちてきちゃダメだって……こっちに来ちゃダメだぞ……って、手を広げたんですか……」
-<ptT0249>「Entﾐo ｸ por isso que vocﾂ abriu os braﾔos?... Como quem dizia, 'nﾐo cai... nﾐo venha pra cｬ...'?」
+<enT0249>"だから……落ちてきちゃダメだって……こっちに来ちゃダメだぞ……って、手を広げたんですか……"
+<ptT0249>"Entﾐo ｸ por isso que vocﾂ abriu os braﾔos?... Como quem dizia, 'nﾐo cai... nﾐo venha pra cｬ...'?"
 
 //TEXT 【由岐】
-<enT0250>「まぁ、そうかな……もう本能的にね」
-<ptT0250>「Basicamente isso... meus reflexos atuaram sozinhos.」
+<enT0250>"まぁ、そうかな……もう本能的にね"
+<ptT0250>"Basicamente isso... meus reflexos atuaram sozinhos."
 
 //TEXT 【ざくろ】
-<enT0251>「本能……ですか……」
-<ptT0251>「Seus reflexos... ｸ...」
+<enT0251>"本能……ですか……"
+<ptT0251>"Seus reflexos... ｸ..."
 
 //TEXT 【ざくろ】
-<enT0252>「くすくす……」
-<ptT0252>「Hi hi hi...」
+<enT0252>"くすくす……"
+<ptT0252>"Hi hi hi..."
 
 //TEXT 【由岐】
-<enT0253>「？」
-<ptT0253>「?」
+<enT0253>"？"
+<ptT0253>"?"
 
 //TEXT 【ざくろ】
-<enT0254>「くす……ふふふ……ふふふふふふふふふ」
-<ptT0254>「Ih ih... hi hi hi... fufu, fufufufufufu.」
+<enT0254>"くす……ふふふ……ふふふふふふふふふ"
+<ptT0254>"Ih ih... hi hi hi... fufu, fufufufufufu."
 
 //TEXT 【由岐】
-<enT0255>「？？」
-<ptT0255>「??」
+<enT0255>"？？"
+<ptT0255>"??"
 
 //TEXT 【ざくろ】
-<enT0256>「ごめんなさい、なんだか私……肺から空気がっ」
-<ptT0256>「Perdﾐo... acho que os meus pulmﾒes estﾐo expulsando o ar contra a minha vontade...」
+<enT0256>"ごめんなさい、なんだか私……肺から空気がっ"
+<ptT0256>"Perdﾐo... acho que os meus pulmﾒes estﾐo expulsando o ar contra a minha vontade..."
 
 //TEXT 【由岐】
-<enT0257>「肺から空気ね……まぁ一般的に笑ってるって言うけどね」
-<ptT0257>「Expulsando ar nｸ... pra nﾐo usar o termo genｸrico e dizer que vocﾂ tｬ tendo uma crise de riso...」
+<enT0257>"肺から空気ね……まぁ一般的に笑ってるって言うけどね"
+<ptT0257>"Expulsando ar nｸ... pra nﾐo usar o termo genｸrico e dizer que vocﾂ tｬ tendo uma crise de riso..."
 
 //TEXT 【ざくろ】
-<enT0258>「うふふふっ。そうですねっ、私……なんだかとっても笑えてしまって……ごめんなさい」
-<ptT0258>「Fufufufu. Vocﾂ tem razﾐo. De alguma forma, toda essa dinｼmica foi incrivelmente inusitada... desculpe-me.」
+<enT0258>"うふふふっ。そうですねっ、私……なんだかとっても笑えてしまって……ごめんなさい"
+<ptT0258>"Fufufufu. Vocﾂ tem razﾐo. De alguma forma, toda essa dinｼmica foi incrivelmente inusitada... desculpe-me."
 
 //TEXT
 <enT0259>　“本能的に私が彼女を受け止めようとしたこと”が、そんなに笑えてしまうのか、彼女は目じりに涙さえ浮かべて笑っていた。
 <ptT0259>　Saber que "eu tentei segurｬ-la por puro instinto" foi tﾐo hilｬrio que escorria um pingo de lｬgrima no canto dos olhos dela.
 
 //TEXT 【ざくろ】
-<enT0260>「あ、そうだ……」
-<ptT0260>「Ah, bem lembrado...」
+<enT0260>"あ、そうだ……"
+<ptT0260>"Ah, bem lembrado..."
 
 //TEXT 【由岐】
-<enT0261>「ん？　どったの？」
-<ptT0261>「An? O que foi agora?」
+<enT0261>"ん？　どったの？"
+<ptT0261>"An? O que foi agora?"
 
 //TEXT 【ざくろ】
-<enT0262>「あ、いいえ……少しメールを……」
-<ptT0262>「N-Nada nﾐo... sｺ precisava redigir um e-mail rｬpido...」
+<enT0262>"あ、いいえ……少しメールを……"
+<ptT0262>"N-Nada nﾐo... sｺ precisava redigir um e-mail rｬpido..."
 
 //TEXT
 <enT0263>　
 <ptT0263>
 
 //TEXT 【由岐】
-<enT0264>「メール？」
-<ptT0264>「E-mail?」
+<enT0264>"メール？"
+<ptT0264>"E-mail?"
 
 //TEXT 【ざくろ】
-<enT0265>「はい……記念メールです……」
-<ptT0265>「Exato... um e-mail comemorativo.」
+<enT0265>"はい……記念メールです……"
+<ptT0265>"Exato... um e-mail comemorativo."
 
 //TEXT
 <enT0266>　
 <ptT0266>
 
 //TEXT 【由岐】
-<enT0267>「記念メール……誰に出すの？」
-<ptT0267>「E-mail comemorativo... vai mandar pra quem?」
+<enT0267>"記念メール……誰に出すの？"
+<ptT0267>"E-mail comemorativo... vai mandar pra quem?"
 
 //TEXT 【ざくろ】
-<enT0268>「そうですねぇ……何だか158人のメールアドレスがあるので……そのすべてに送ります」
-<ptT0268>「Vejamos... jｬ que eu tenho exatos cento e cinquenta e oito endereﾔos de pessoas armazenados aqui... acho que vou disparar pra todos eles de uma vez.」
+<enT0268>"そうですねぇ……何だか158人のメールアドレスがあるので……そのすべてに送ります"
+<ptT0268>"Vejamos... jｬ que eu tenho exatos cento e cinquenta e oito endereﾔos de pessoas armazenados aqui... acho que vou disparar pra todos eles de uma vez."
 
 //TEXT 【由岐】
-<enT0269>「どんな？」
-<ptT0269>「Disparar o quﾂ?」
+<enT0269>"どんな？"
+<ptT0269>"Disparar o quﾂ?"
 
 //TEXT 【ざくろ】
-<enT0270>「あ、いいえ……
-<ptT0270>「Melhor nﾐo perguntar...
+<enT0270>"あ、いいえ……
+<ptT0270>"Melhor nﾐo perguntar...
 
 //TEXT
-<enT0271>これは見てはダメですよ……結構、引いちゃいますから……」
-<ptT0271>Vocﾂ nﾐo iria gostar do conteｶdo... com certeza perderia a vontade de ler na hora.」
+<enT0271>これは見てはダメですよ……結構、引いちゃいますから……"
+<ptT0271>Vocﾂ nﾐo iria gostar do conteｶdo... com certeza perderia a vontade de ler na hora."
 
 //TEXT 【由岐】
-<enT0272>「引く？」
-<ptT0272>「Perder a vontade?」
+<enT0272>"引く？"
+<ptT0272>"Perder a vontade?"
 
 //TEXT 【ざくろ】
-<enT0273>「あ、ちょっとですね……
-<ptT0273>「Entﾐo...
+<enT0273>"あ、ちょっとですね……
+<ptT0273>"Entﾐo...
 
 //TEXT
-<enT0274>私、最初で最後のイタズラをしてやろうかと……」
-<ptT0274>Eu decidi botar em aﾔﾐo a minha primeira e ｶltima pegadinha de verdade...」
+<enT0274>私、最初で最後のイタズラをしてやろうかと……"
+<ptT0274>Eu decidi botar em aﾔﾐo a minha primeira e ｶltima pegadinha de verdade..."
 
 //TEXT 【由岐】
-<enT0275>「最初で最後の……」
-<ptT0275>「Primeira e ｶltima...」
+<enT0275>"最初で最後の……"
+<ptT0275>"Primeira e ｶltima..."
 
 //TEXT 【ざくろ】
-<enT0276>「はい……最初で最後です……」
-<ptT0276>「Sempre existe a primeira e ｶltima vez pra tudo na vida.」
+<enT0276>"はい……最初で最後です……"
+<ptT0276>"Sempre existe a primeira e ｶltima vez pra tudo na vida."
 
 //TEXT 【ざくろ】
-<enT0277>「こういうイタズラがあっても良いかなぁ……って」
-<ptT0277>「Seria cﾄmico demais se eu levasse essa pegadinha pro cemitｸrio comigo...」
+<enT0277>"こういうイタズラがあっても良いかなぁ……って"
+<ptT0277>"Seria cﾄmico demais se eu levasse essa pegadinha pro cemitｸrio comigo..."
 
 //TEXT 【由岐】
-<enT0278>「はぁ……」
-<ptT0278>「Hﾐ...」
+<enT0278>"はぁ……"
+<ptT0278>"Hﾐ..."
 
 //TEXT
 <enT0279>　そう言って笑った高島さんの笑顔は少し恐かった。
@@ -1141,12 +1141,12 @@
 <ptT0281>　O mesmo calafrio que bate quando alguｸm roga uma praga...?
 
 //TEXT 【ざくろ】
-<enT0282>「……2012年7月12日……22:44……そうかそんな時間なのか……」
-<ptT0282>「...Doze de Julho de 2012... Vinte e duas e quarenta e quatro... o relｺgio jｬ tｬ marcando esse horｬrio, nｸ...」
+<enT0282>"……2012年7月12日……22:44……そうかそんな時間なのか……"
+<ptT0282>"...Doze de Julho de 2012... Vinte e duas e quarenta e quatro... o relｺgio jｬ tｬ marcando esse horｬrio, nｸ..."
 
 //TEXT 【ざくろ】
-<enT0283>「こっちだとまだ夕日なのに……」
-<ptT0283>「Mas eu olho pra lｬ e ainda parece finalzinho de tarde...」
+<enT0283>"こっちだとまだ夕日なのに……"
+<ptT0283>"Mas eu olho pra lｬ e ainda parece finalzinho de tarde..."
 
 //TEXT
 <enT0284>　
